@@ -22,6 +22,8 @@ class Client(Observer):
         except EmailNotValidError:
             self.__email_address = "email@pixell-river.com"
 
+
+
     @property
     def client_number(self):
         return self.__client_number
