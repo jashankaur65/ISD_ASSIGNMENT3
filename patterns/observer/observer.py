@@ -1,3 +1,5 @@
+"Author: Jashan"
+
 class Observer:
     """Base class for observers in the Observer Pattern."""
 

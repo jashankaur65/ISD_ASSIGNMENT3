@@ -1,3 +1,4 @@
+"Author: Jashan"
 
 from bank_account.bank_account import BankAccount
 from client.client import Client

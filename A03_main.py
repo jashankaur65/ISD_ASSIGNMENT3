@@ -1,6 +1,7 @@
 """
 A03_main.py
 Demonstrates the Observer Pattern with various BankAccount types.
+Author: Jashan
 """
 
 from datetime import date

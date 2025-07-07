@@ -1,4 +1,4 @@
-
+"Author: Jashan"
 
 from datetime import date, timedelta
 from bank_account.investment_account import InvestmentAccount

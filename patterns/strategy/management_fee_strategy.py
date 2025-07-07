@@ -1,3 +1,5 @@
+"Author: Jashan"
+
 from .service_charge_strategy import ServiceChargeStrategy
 from datetime import date, timedelta
 

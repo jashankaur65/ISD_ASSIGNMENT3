@@ -1,3 +1,5 @@
+"Author: Jashan"
+
 from bank_account.bank_account import BankAccount
 from datetime import date
 from patterns.observer.subject import Subject  # Adjust the import path if needed

@@ -1,3 +1,5 @@
+"Author: Jashan"
+
 from datetime import date
 from patterns.strategy.service_charge_strategy import ServiceChargeStrategy
 
