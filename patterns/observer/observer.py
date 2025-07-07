@@ -6,5 +6,6 @@ class Observer:
         This method should be implemented by subclasses to receive updates.
         :param subject: The subject sending the notification.
         :param message: The message or event data.
+       
         """
         raise NotImplementedError("Subclasses must implement this method.")
