@@ -12,5 +12,5 @@ account.deposit(500)
     print("After transactions:")
     print(account)
 
-if __name__ == "__main__":
+   if __name__ == "__main__":
     main()
