@@ -1,5 +1,7 @@
 from .service_charge_strategy import ServiceChargeStrategy
 
+
+
 class MinimumBalanceStrategy(ServiceChargeStrategy):
     def __init__(self, min_balance, penalty_fee):
         self._min_balance = float(min_balance)
